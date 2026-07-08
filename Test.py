@@ -7,3 +7,6 @@ def check_even_odd(num):
     # Test the function with some examples
 print(check_even_odd(4))  # Output: Even
 print(check_even_odd(7))  # Output: Odd
+print("Hello World")
+
+# Added this comment to learn pull requests.
